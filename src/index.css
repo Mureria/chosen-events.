@@ -1,0 +1,11 @@
+@tailwind utilities;
+@tailwind base;
+@tailwind components;
+
+
+.pic {
+background-image: url("https://images.unsplash.com/photo-1469371670807-013ccf25f16a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"); 
+ }
+.sev {
+background-image: url("https://images.unsplash.com/photo-1526092817387-8f07b2904e48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80");
+}
