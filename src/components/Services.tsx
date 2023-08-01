@@ -2,8 +2,8 @@
 const Services = () => {
   return (
     <>
-    <div className="w-full h-full relative mx-auto justify-center items-center text-white py-6 bg-fixed bg-center bg-cover sev md:h-screen">
-        <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/70 z-[2]' />
+    <div className="w-full z-[2] h-full relative mx-auto justify-center items-center text-white py-12 bg-fixed bg-center bg-cover sev md:h-screen">
+        <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/70 z-[1]' />
         <div className=" z-[2] text-white ">
                 <h1 className="text-4xl text-center font-bold">Our Services</h1>
                 <div className="w-[100px] my-2 mx-auto border-b-2 "></div>
